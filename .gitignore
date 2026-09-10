@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Runtime
+*.log
+ollama.log
+.env
+.DS_Store
+
+# Local data / outputs
+data/
+outputs/
+tmp/
+
+# Model files
+*.bin
+*.gguf
+*.safetensors
+
+# Secrets
+*.key
+*.pem
+credentials.json

@@ -1,0 +1,6 @@
+# ReporterIA v1.0
+# Algunas dependencias pueden venir preinstaladas en Google Colab.
+
+ollama
+gradio
+faster-whisper
